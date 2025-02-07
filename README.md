@@ -1,8 +1,9 @@
-<iframe src="./images/Poster_Personalized_Thumbnail.pdf" width="700" height="1000"></iframe>
-
 # 🎬 Movie Recommendation + Thumbnail Layout & Diffusion
 
-이 프로젝트는 사용자가 시청한 영화 데이터를 바탕으로 영화 추천을 진행하고, 추천 결과를 활용해 영화 썸네일 레이아웃을 생성하며, Stable Diffusion 기반의 이미지 생성으로 최종 영화 포스터(썸네일)를 만드는 통합 시스템입니다.
+본 프로젝트는 넷플릭스의 개인화 추천 시스템의 동작 원리를 알아보고자 진행되었습니다. 사용자가 시청한 영화 데이터를 바탕으로 영화 추천을 진행하고, 추천 결과를 활용해 영화 썸네일 레이아웃을 생성하며, Stable Diffusion 기반의 이미지 생성으로 최종 영화 포스터(썸네일)를 만드는 통합 시스템을 직접 구현하였습니다.
+
+![Thumbnail](./images/Poster_Personalized_Thumbnail.jpg)
+
 
 ## 📚 추가 자료 및 참고 링크
 - [Notion 프로젝트 페이지](https://www.notion.so/naye971012/Personalized-Thumnail-389d50b79edf41c9a059e38a79b40994)
